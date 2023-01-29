@@ -1,0 +1,4 @@
+Project Description
+In this project, you will apply your data importing and cleaning skills to uncover insights about the Airbnb market in New York City.
+
+You will import data from multiple file types and combine them to answer questions about the Airbnb market in New York. You will also use your string cleaning and date manipulation skills to extract accurate information from the datasets. The packages and tools used here are utilized by data scientists everyday since so much of the world's data is stored in unconventional formats and is not clean or analysis-ready.
